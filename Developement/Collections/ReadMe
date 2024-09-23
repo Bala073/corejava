@@ -21,4 +21,3 @@ Collections.synchronizedMap is used to make a Map thread-safe.
 All operations on the synchronized map are performed in a synchronized manner, preventing concurrent modifications.
 The underlying Map implementation (in this case, a HashMap) remains unchanged.
 The synchronized map provides a thread-safe way to access and modify shared data structures.
-
